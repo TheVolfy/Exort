@@ -24,7 +24,7 @@ pip install vosk sounddevice
 python gaysexdota.py
 ```
 
-Либо скачай готовый `.exe` из [Releases](github.com/thevolfy/exort/releases).
+Либо скачай готовый `.exe` из [Releases](../../releases).
 
 ## Сборка .exe
 
