@@ -1,0 +1,33 @@
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+# Signing certificates and private keys — NEVER commit these
+signing.cer
+signing.pfx
+*.pfx
+*.p12
+*.key
+*.pem
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
